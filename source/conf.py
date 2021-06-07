@@ -38,6 +38,8 @@ logo = 'D:\newfile\source\_static\logo.PNG'
 release = '1.0.0'
 
 
+
+
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
