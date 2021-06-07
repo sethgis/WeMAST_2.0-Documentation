@@ -78,7 +78,8 @@ extensions = [
     'sphinx_rtd_theme',
 ]
 
-html_theme = "scrolls"
+# html_theme = "scrolls"
+html_theme = "sphinx_rtd_theme"
 html_theme_path = ["_themes", ]
 # html_theme = 'basic'
 html_theme_options = html_theme_options = {
