@@ -202,7 +202,7 @@ coinciding with areas selected.
 2.7 System Overview
 ======================================================================================================
 
-.. figure:: Images/WETLAND.png
+.. figure:: https://github.com/sethgis/WeMAST_LTG2/blob/gh-pages/Images/SysOverview222.png
     :width: 600
     :align: left
     :height: 300
@@ -218,7 +218,7 @@ coinciding with areas selected.
 	* 5: Other functional buttons including the opacity tool, download button, measure distance and area, drawing polygon tool and zoom in and out tool.
 
 
-.. figure:: Images/WETLAND.png
+.. figure:: https://github.com/sethgis/WeMAST_LTG2/blob/gh-pages/Images/SysOverview222.png
     :width: 600
     :align: left
     :height: 300
