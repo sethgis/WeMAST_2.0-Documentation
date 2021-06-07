@@ -458,3 +458,5 @@ The Index categorises the areas that are susceptible to flooding (severe) to the
 Since the data used i.e. SRTM (DEM) does not change frequently, the output is a static output until an updated data is realised.
 TWI is a useful model to estimate where water accumulates in an area. It is a function of slope and the upstream contributing area. TWI is also used to correlate to other variables such as the availability of ground water and specific plant species in an area among others. For instance, the presence of marshy vegetated areas can be found where there is high level of undulation, and mostly found in open wetland areas and stagnant waters. 
 Depending on the rainfall or flooding intensity, the susceptibility to flooding increases with decreasing distance between the major undulating areas such as river flow, stream, open water source such as lakes and the elevated areas.
+
+And finally th documentation has worked for everyone
