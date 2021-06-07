@@ -6,7 +6,7 @@
 WETLAND MONITORING AND ASSESSMENT SERVICE
 ******************************************************
 
-.. figure:: Images/WETLAND.png
+.. figure:: https://github.com/sethgis/WeMAST_LTG2/blob/gh-pages/Images/Wetland%20Photo.PNG
     :width: 600
     :align: left
     :height: 300
