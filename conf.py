@@ -78,7 +78,7 @@ extensions = [
 
 html_theme = "sphinx_rtd_theme"
 html_theme_path = ["_themes", ]
-# html_theme = 'basic'
+html_theme = 'basic'
 html_theme_options = html_theme_options = {
     'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
     'analytics_anonymize_ip': False,
