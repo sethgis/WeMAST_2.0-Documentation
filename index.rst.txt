@@ -6,7 +6,7 @@
 WETLAND MONITORING AND ASSESSMENT SERVICE
 ******************************************************
 
-.. figure:: D:\Wetland3.PNG
+.. figure:: Images\Wetland3.PNG
     :width: 600
     :align: left
     :height: 300
