@@ -6,7 +6,7 @@
 WETLAND MONITORING AND ASSESSMENT SERVICE
 ******************************************************
 
-.. figure:: Images/COUNTRY.png
+.. figure:: https://github.com/sethgis/WeMAST_LTG2-Documentation/issues/1#issue-920520450
     :width: 600
     :align: left
     :height: 300
