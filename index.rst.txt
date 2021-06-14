@@ -149,7 +149,7 @@ The major indicators are highlighted below.
 The above categirized indicators, had root sub indicators that were defined in ache category. These sub indicators are then used in modelling
 the Wetland and Transboundary basin conditions and health. The various sub indicators are listed below.
 
-.. figure:: D:\DataSource2.PNG
+.. figure:: Images\DataSource2.PNG
     :width: 650
     :align: left
     :height: 500
@@ -211,7 +211,7 @@ coinciding with areas selected.
 System Overview
 ======================================================================================================
 
-.. figure:: D:\SysOverview222.PNG
+.. figure:: Images\SysOverview222.PNG
     :width: 600
     :align: left
     :height: 300
@@ -227,7 +227,7 @@ System Overview
 	* 5: Other functional buttons including the opacity tool, download button, measure distance and area, drawing polygon tool and zoom in and out tool.
 
 
-.. figure:: D:\Metadata.PNG
+.. figure:: Images\Metadata.PNG
     :width: 600
     :align: left
     :height: 300
@@ -256,7 +256,7 @@ To select the areas of interest the user can navigate as is shown in the steps b
 The system allows for three modes of defining areas of interest, including.
 	* Basin Level
 
-.. figure:: D:\ACCBASIN.PNG
+.. figure:: Images\ACCBASIN.PNG
     :width: 600
     :align: left
     :height: 300
@@ -267,7 +267,7 @@ The system allows for three modes of defining areas of interest, including.
 
 	* Wetland Level
 
-.. figure:: D:\WETLAND.PNG
+.. figure:: Images\WETLAND.PNG
     :width: 600
     :align: left
     :height: 300
@@ -277,7 +277,7 @@ The system allows for three modes of defining areas of interest, including.
     Figure 2: Accessing Wetland AOI
 
 	* Year\time
-.. figure:: D:\YEAR.PNG
+.. figure:: Images\YEAR.PNG
     :width: 600
     :align: left
     :height: 300
@@ -288,7 +288,7 @@ The system allows for three modes of defining areas of interest, including.
 
 
 	* Statistics and Meta data
-.. figure:: D:\Metadata.PNG
+.. figure:: Images\Metadata.PNG
     :width: 600
     :align: left
     :height: 300
@@ -302,7 +302,7 @@ The system allows for three modes of defining areas of interest, including.
 
 Selecting the Data Sources
 ======================================================================
-.. figure:: D:\INDICATORR.PNG
+.. figure:: Images\INDICATORR.PNG
     :width: 600
     :align: left
     :height: 300
@@ -311,7 +311,7 @@ Selecting the Data Sources
     
     Figure 2: Accessing Data Source
 
-.. figure:: D:\SUBINDICATOR.PNG
+.. figure:: Images\SUBINDICATOR.PNG
     :width: 600
     :align: left
     :height: 300
@@ -337,7 +337,7 @@ changes, and is used to explain the dynamics of land usage and trend that occur 
 The analysis of LULC data set overtime, is capable of visualising trends of human actions and impacts on the 
 Wetland and basin resources in relation to the vulnerable population. To compute the LULC land cover, the following steps are applied in the system.
 
-.. figure:: D:\LULC.PNG
+.. figure:: Images\LULC.PNG
     :width: 650
     :align: left
     :height: 325
@@ -359,7 +359,7 @@ concerning the phenology of the vegetation greenness and productivity overtime.
 See the `Data Preparation Manual <https://drive.google.com/file/d/1yDdZSvnr14I5uU0nMDh77FSQfpqN5N50/view?usp=sharing/>`_.
 
 
-.. figure:: D:\NDVI.PNG
+.. figure:: Images\NDVI.PNG
     :width: 600
     :align: left
     :height: 300
@@ -380,7 +380,7 @@ Water extent is assessed through the use of Normalised Difference Water Index (N
 NDWI is a satellite-derived product, achieved after indexing SWIR and NIR bands of a satellite image. It captures the in season pure water pixels. The reduction of water areas correlates to low water quality, while the reverse correlates to increased precipitation and relatively reduced affluent deposition in water areas.
 
 
-.. figure:: D:\WATEREXTENT.PNG
+.. figure:: Images\WATEREXTENT.PNG
     :width: 600
     :align: left
     :height: 300
@@ -406,7 +406,7 @@ Generation of wetness and water product will require a more robust analysis of i
 The complex process based method of producing the Wetness and Water product led to the production of an expert product known as the Water and Wetness Probability Index (WWPI). The WWPI categorises the areas into water, wetness and dry areas. The wetness areas are places with high soil moisture content per season, while the dry areas are places susceptible to drought and have little or no vegetation cover. 
 The water areas are the open known wetlands and open surface water areas such as lakes.
 
-.. figure:: D:\WETLANDSTATUS.PNG
+.. figure:: Images\WETLANDSTATUS.PNG
     :width: 600
     :align: left
     :height: 300
