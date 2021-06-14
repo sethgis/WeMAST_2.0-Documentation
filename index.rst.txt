@@ -130,7 +130,7 @@ The information and geospatial intelligence therein is useful to a list of end u
 	* Local communities among others.
 
 
-.Data Source
+Data Source
 ========================================================================================================================================
 WeMAST Monitoring adn Assessment service is developed in adherance to Open Geospatial Consortium (OGC) standards. The data sources are 
 standadized and acquired from open source, that can be accessible by interested players in Wetland Management and Assessment.
