@@ -6,7 +6,7 @@
 WETLAND MONITORING AND ASSESSMENT SERVICE
 ******************************************************
 
-.. figure:: D:\Wetland3.PNG
+.. figure:: Images/COUNTRY.png
     :width: 600
     :align: left
     :height: 300
@@ -140,7 +140,7 @@ The major indicators are highlighted below.
 The above categirized indicators, had root sub indicators that were defined in ache category. These sub indicators are then used in modelling
 the Wetland and Transboundary basin conditions and health. The various sub indicators are listed below.
 
-.. figure:: D:\DataSource2.PNG
+.. figure:: Images/COUNTRY.png
     :width: 600
     :align: left
     :height: 500
