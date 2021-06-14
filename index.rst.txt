@@ -6,7 +6,7 @@
 WETLAND MONITORING AND ASSESSMENT SERVICE
 ******************************************************
 
-.. figure:: https://github.com/sethgis/WeMAST_LTG2-Documentation/issues/1#issue-920520450
+.. figure:: Images/Wetland Photo.png
     :width: 600
     :align: left
     :height: 300
@@ -140,7 +140,7 @@ The major indicators are highlighted below.
 The above categirized indicators, had root sub indicators that were defined in ache category. These sub indicators are then used in modelling
 the Wetland and Transboundary basin conditions and health. The various sub indicators are listed below.
 
-.. figure:: Images/COUNTRY.png
+.. figure:: Images/Wetland Photo.png
     :width: 600
     :align: left
     :height: 500
@@ -202,7 +202,7 @@ coinciding with areas selected.
 2.7 System Overview
 ======================================================================================================
 
-.. figure:: D:\SysOverview222.PNG
+.. figure:: Images/Wetland Photo.png
     :width: 600
     :align: left
     :height: 300
@@ -218,7 +218,7 @@ coinciding with areas selected.
 	* 5: Other functional buttons including the opacity tool, download button, measure distance and area, drawing polygon tool and zoom in and out tool.
 
 
-.. figure:: D:\Metadata.PNG
+.. figure:: Images/Wetland Photo.png
     :width: 600
     :align: left
     :height: 300
@@ -247,7 +247,7 @@ To select the areas of interest the user can navigate as is shown in the steps b
 The system allows for three modes of defining areas of interest, including.
 	* Basin Level
 
-.. figure:: D:\ACCBASIN.PNG
+.. figure:: Images/Wetland Photo.png
     :width: 600
     :align: left
     :height: 300
@@ -258,7 +258,7 @@ The system allows for three modes of defining areas of interest, including.
 
 	* Wetland Level
 
-.. figure:: D:\WETLAND.PNG
+.. figure:: Images/Wetland Photo.png
     :width: 600
     :align: left
     :height: 300
@@ -267,8 +267,8 @@ The system allows for three modes of defining areas of interest, including.
     
     Figure 2: Accessing Wetland AOI
 
-	*Year
-.. figure:: D:\YEAR.PNG
+	* Year
+.. figure:: Images/Wetland Photo.png
     :width: 600
     :align: left
     :height: 300
@@ -279,7 +279,8 @@ The system allows for three modes of defining areas of interest, including.
 
 
 	* Statistics and Meta data
-.. figure:: D:\Metadata.PNG
+	
+.. figure:: Images/Wetland Photo.png
     :width: 600
     :align: left
     :height: 300
@@ -293,7 +294,7 @@ The system allows for three modes of defining areas of interest, including.
 
 Selecting the Data Sources
 ======================================================================
-.. figure:: D:\INDICATORR.PNG
+.. figure:: Images/Wetland Photo.png
     :width: 600
     :align: left
     :height: 300
@@ -302,7 +303,7 @@ Selecting the Data Sources
     
     Figure 2: Accessing Data Source
 
-.. figure:: D:\SUBINDICATOR.PNG
+.. figure:: Images/Wetland Photo.png
     :width: 600
     :align: left
     :height: 300
