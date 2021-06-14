@@ -43,20 +43,20 @@ players in need.
 
 
 
-1.1 Contanct the team
+Contanct the team
 ==================================================================================================================
 Please contact the `SASSCAL <https://www.sasscal.org/contact-us/>`_ team if in need of any bug reporting, ideas as well as contribution that will
 make the service better. 
 
 
-1.2 Acknowledgement
+Acknowledgement
 ==================================================================================================================
 The feedback provided by users of WeMAST service and by the participants in the webinars and workshops 
 held by SASSCAL org have been critical to the development of the Service.
 The team included a list of patnering institutions in patnership with the private sector, who were the implemeneters of the assignement.
 
 
-1.3 Lincenses
+Lincenses
 ==================================================================================================================
 WeMAST service is open and free to be used by the plethora of users. The linces is under the GNU General Public User Linceses, version 2.0.0
 The `WeMAST service product are made available under the Creative Commons Attribution 4.0 International Lincenses (CC YY 4.0) <https://creativecommons.org/licenses/by/4.0/>`_.
@@ -65,7 +65,7 @@ Transboundary Basins, i.e Cuvelai, Zambezi, Limpopo and Okavango.
 
 
 ****************************************
-2.0 Background
+Background
 ****************************************
 
 Wetlands exist in complex ecological conditions that tends to transform with time and space in terms of functionality and structural diversity. Wetland ecosystems have an important role in maintaining biological diversity, they are also important for biochemical transformation, storage, production of living plants and animals and for decomposition of organic materials (USEPA, 2002; Clarkson et al., 2003). In recent past, wetlands have been subjected to a wide range of threats (Malekmohammadi and Jahanishakib, 2017) causing alterations from activities such as dredging and filling operations, hydrologic modifications, pollutant runoff, eutrophication, impoundment, and fragmentation by roads and ditches(Chatterjee et al., 2015) (Klemas, 2011). These activities cause disruption to the ecological balance of animal and biotic reservoirs in wetlands (Ramsar Convention Secretariat, 2004). Assessment of these threats is thus essential to developing an understanding of the state of a wetland ecosystem and to develop a suitable management strategy for eastern Africa region, hence wetland vulnerability assessment. 
@@ -104,7 +104,7 @@ As part of the main objective, the WeMAST project, through a professional collab
 	* The Okavango Basin in Botswana, Angola and Namibia. 
 	* The Limpopo Basin in South Africa, Botswana and Mozambique.
 
-2.1 Objective of the Assignment 
+Objective of the Assignment 
 ========================================================================================================================================
 The geoportal is a one stop shop in acquiring information pertaining to wetland conditions, wetland resource utilization, impact of management policies, the health of the wetland and other contemporary information such as water abstraction, connectivity and flow to the population in need. 
 The geoportal is also a vital tool in assessing the land use and land cover around the wetland, while providing a proxy information of the sustainable use of the water and biodiversity resources. 
@@ -121,7 +121,7 @@ The information and geospatial intelligence therein is useful to a list of end u
 	* Local communities among others.
 
 
-2.2 Data Source
+Data Source
 ========================================================================================================================================
 WeMAST Monitoring adn Assessment service is developed in adherance to Open Geospatial Consortium (OGC) standards. The data sources are 
 standadized and acquired from open source, that can be accessible by interested players in Wetland Management and Assessment.
